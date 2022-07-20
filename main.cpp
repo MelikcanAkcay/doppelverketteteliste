@@ -9,6 +9,7 @@ typedef struct eintrag {
 } eintrag_t;
 
 /* Datenstruktur mit Informationen ueber die Liste */
+//ddsd
 typedef struct {
     eintrag_t * p_head;
     eintrag_t * p_tail;
