@@ -1,0 +1,3 @@
+/home/melikcan/CLionProjects/ALD/doppeltverketteteliste/cmake-build-debug/CMakeFiles/doppeltverketteteliste.dir
+/home/melikcan/CLionProjects/ALD/doppeltverketteteliste/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/melikcan/CLionProjects/ALD/doppeltverketteteliste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
